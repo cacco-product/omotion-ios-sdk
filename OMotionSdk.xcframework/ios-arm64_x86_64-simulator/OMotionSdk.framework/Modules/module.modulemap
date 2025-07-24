@@ -1,0 +1,11 @@
+framework module OMotionSdk {
+  umbrella header "OMotionSdk.h"
+  export *
+
+  module * { export * }
+}
+
+module OMotionSdk.Swift {
+  header "OMotionSdk-Swift.h"
+  requires objc
+}

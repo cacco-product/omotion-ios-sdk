@@ -1,0 +1,53 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name OMotionSdk
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+import CoreTelephony
+import CryptoKit
+import LocalAuthentication
+@_exported import OMotionSdk
+import Security
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@objc(LoginMethod_) public enum LoginMethod : Swift.Int {
+  case autoFill, biometrics, oidc, other
+  case none
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@_inheritsConvenienceInitializers @objc final public class Omotion : ObjectiveC.NSObject {
+  @objc final public class func startSession()
+  @objc(setup:appEnv:completion:) final public class func setup(apiKey: Swift.String, appEnv: Swift.String = "", completion: @escaping (OMotionSdk.OmotionResponse?, Foundation.NSError?) -> Swift.Void)
+  @objc(request:userId:loginSuccess:loginMethod:completion:) final public class func request(eventId: Swift.String, userId: Swift.String, loginSuccess: Swift.Bool, loginMethod: OMotionSdk.LoginMethod = .none, completion: @escaping (OMotionSdk.OmotionResponse?, Foundation.NSError?) -> Swift.Void)
+  @objc(requestWithResult:userId:loginSuccess:loginMethod:timeout:completion:) final public class func requestWithResult(eventId: Swift.String, userId: Swift.String, loginSuccess: Swift.Bool, loginMethod: OMotionSdk.LoginMethod = .none, timeout: Foundation.TimeInterval = 1200, completion: @escaping (OMotionSdk.OmotionResponse?, Foundation.NSError?) -> Swift.Void)
+  @objc(sendFeedback:completion:) final public class func sendFeedback(feedBack: OMotionSdk.FeedBack, completion: @escaping (OMotionSdk.OmotionResponse?, Foundation.NSError?) -> Swift.Void)
+  @objc final public class func onViewTapGesture()
+  @objc final public class func onViewSwipeGesture()
+  @objc final public class func onKeyTap()
+  @objc override dynamic public init()
+  @objc deinit
+}
+@objc(FeedBack_) public enum FeedBack : Swift.Int {
+  case OK, NG
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers final public class OmotionResponse : ObjectiveC.NSObject {
+  @objc final public let data: [Swift.String : Any]
+  @objc deinit
+}
+extension OMotionSdk.LoginMethod : Swift.Equatable {}
+extension OMotionSdk.LoginMethod : Swift.Hashable {}
+extension OMotionSdk.LoginMethod : Swift.RawRepresentable {}
+extension OMotionSdk.FeedBack : Swift.Equatable {}
+extension OMotionSdk.FeedBack : Swift.Hashable {}
+extension OMotionSdk.FeedBack : Swift.RawRepresentable {}

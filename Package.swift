@@ -19,7 +19,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OMotionSDK",
-            path: "OMotionIosSdk.xcframework"
+            path: "OMotionSdk.xcframework"
         )
     ]
 )

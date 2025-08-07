@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.cocoapods_version     = ">= 1.12.0"
 
   s.source       = { :git => "https://github.com/cacco-product/omotion-ios-sdk.git", :tag => "v#{s.version}" }
-  s.vendored_frameworks = "OMotionIosSdk.xcframework"
+  s.vendored_frameworks = "OMotionSdk.xcframework"
 end

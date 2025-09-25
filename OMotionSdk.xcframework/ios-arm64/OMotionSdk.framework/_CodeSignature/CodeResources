@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/OMotionSdk-Swift.h</key>
 		<data>
-		2n5baB2M9bUxKGg8O0du/yR86nY=
+		UQ8TV/j5WRcsi8txnmVDD2MFLiE=
 		</data>
 		<key>Headers/OMotionSdk.h</key>
 		<data>
@@ -14,27 +14,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XCaqHhvU7uAa7enuXeECqXNOJAg=
+		a4b69nW2gHUIlujCb48wx6OP9oE=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		jRrLaBKO6TBGPvp3l5XPdiWe5Cw=
+		Lr9pGG6ieyT78C31Ad18Jz13OSs=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		YajaNT6w0l0znEdfH1PKB8cbw2E=
+		NDIwzewNw1D8Mn+tZr/5XZzRrGM=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Q+GdnTIviJlbZNc3DNOnml91Mog=
+		nmNWKOPGyNUNZ0YeZkVq5basjQc=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		YajaNT6w0l0znEdfH1PKB8cbw2E=
+		NDIwzewNw1D8Mn+tZr/5XZzRrGM=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		5eme2P0SK0GDDHIKS9//BvBKTPI=
+		eZyINRvTciHaG8zLr61oqbLFG2k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5+qVcGCiUJweTjLPJIF9VhL4wpxchW4PAvMg+KNZlBU=
+			8+ci3s1rT/TLTDBq4oDWOj32LKjemLpcTL1DxucuFnc=
 			</data>
 		</dict>
 		<key>Headers/OMotionSdk.h</key>
@@ -65,35 +65,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZI+mwD8TkLEEwJvsMWmUgziYx7dHoj0K0Zj0PmOLQEk=
+			v9fspyKvshNI3Le1FJYfJyClprWZR8TRVf9i2UpAVz4=
 			</data>
 		</dict>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lAuC9H8X9WxDyOVEGGUyYMBV4kJYUoQSgXGkZHpWcuE=
+			FOzVmatk+VtFZsoRDQljYgPpeBQNR+y4PpGPVppTERI=
 			</data>
 		</dict>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			shOzKbH2/u2OkumPh9oMXrhJ5HdZxzz37wF7/3M7Kbc=
+			WHaa9ifo9mDmmtCEsZ9OZSycTdLFnojUdHc+uU3AtG4=
 			</data>
 		</dict>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lAuC9H8X9WxDyOVEGGUyYMBV4kJYUoQSgXGkZHpWcuE=
+			FOzVmatk+VtFZsoRDQljYgPpeBQNR+y4PpGPVppTERI=
 			</data>
 		</dict>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			74zJ+knVeP0szVn0GMi8emy59k4cfopAMYXBA+Ga8SM=
+			iXzWFSSLpEP46mvs/Atq+A51Co/R88+tA2hhWzcrtIM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

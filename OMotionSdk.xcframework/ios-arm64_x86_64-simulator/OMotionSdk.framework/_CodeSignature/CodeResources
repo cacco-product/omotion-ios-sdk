@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/OMotionSdk-Swift.h</key>
 		<data>
-		TNeNe2Q5GKHF5NhtY6MP8xq9DIA=
+		OfMFp+OAuS7gOICy41nG+Df83ss=
 		</data>
 		<key>Headers/OMotionSdk.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/XYmYvGtA/t6hWAI3RQ8h3dX2u0=
+		5DJhhvSeXKlRs+aUumHeJto/nzI=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		jRrLaBKO6TBGPvp3l5XPdiWe5Cw=
+		Lr9pGG6ieyT78C31Ad18Jz13OSs=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		RNfo6gaJVv1c/YzDaBiBdqwCTUs=
+		DWNEeedNF8jZ6B6sr3bcTs1WqKM=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		7trdYlr3xgRPc/RVuwiu2eq/Fkw=
+		VbHs5c8Nz0j/0NrLt+79ZAUtWsw=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		RNfo6gaJVv1c/YzDaBiBdqwCTUs=
+		DWNEeedNF8jZ6B6sr3bcTs1WqKM=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yqGVoHT+xtm2fEKJgW0wtBNSGoQ=
+		ZGJUuU23yJiGzjUW/IifLRIkvgo=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		jRrLaBKO6TBGPvp3l5XPdiWe5Cw=
+		Lr9pGG6ieyT78C31Ad18Jz13OSs=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		WiSO/Co1oESAaj/HFfREk1QC4JA=
+		1qvTz/+31mZCOdhnqfRJxMPy20M=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ZnxsGU8QRU4iMEychE0Be/1T0x0=
+		M8hLl0fuvsx2PMh5O/eAuMqh/kI=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WiSO/Co1oESAaj/HFfREk1QC4JA=
+		1qvTz/+31mZCOdhnqfRJxMPy20M=
 		</data>
 		<key>Modules/OMotionSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8+tdJFO1O3nG9N75SQ4r1pilYNE=
+		tQ/h8x2lP086pn6al+kuX+VFd5I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SstOMJfpidZQpQ3zfkJ+JFBPiN/rulDDQ3dbyaLfcTc=
+			0rRUnias6lIr3hbmHwQt9XTUaa2ODC14UEn3srQFtnY=
 			</data>
 		</dict>
 		<key>Headers/OMotionSdk.h</key>
@@ -85,70 +85,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZI+mwD8TkLEEwJvsMWmUgziYx7dHoj0K0Zj0PmOLQEk=
+			v9fspyKvshNI3Le1FJYfJyClprWZR8TRVf9i2UpAVz4=
 			</data>
 		</dict>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YwJlqLPAX3wNkPvD3X0I1MBGIMTE7L6Wkoi8uSVsslw=
+			swbZQCOL4My1QOmvbY5XOzphIGVEVEd2YbVYw7PQ1co=
 			</data>
 		</dict>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ffIgSYJ2kbSJWixVtJVebPQW4vN35uc7ykTNoL+fAt4=
+			ofba1RdeHmIt1iX3jMhL6sSMDwPzY1WMmVWMhqELW8E=
 			</data>
 		</dict>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YwJlqLPAX3wNkPvD3X0I1MBGIMTE7L6Wkoi8uSVsslw=
+			swbZQCOL4My1QOmvbY5XOzphIGVEVEd2YbVYw7PQ1co=
 			</data>
 		</dict>
 		<key>Modules/OMotionSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FYgQozHGvXyPPi6q+Hbo/3erqf1B7HDMO5NowdBCPiU=
+			yzwqazjt1QBkIWs493H0BXtraMtvOU7/v4RipELsULY=
 			</data>
 		</dict>
 		<key>Modules/OMotionSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZI+mwD8TkLEEwJvsMWmUgziYx7dHoj0K0Zj0PmOLQEk=
+			v9fspyKvshNI3Le1FJYfJyClprWZR8TRVf9i2UpAVz4=
 			</data>
 		</dict>
 		<key>Modules/OMotionSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			60QQ+0JNbuh1k+FxhYzvdpIW6b7utdmXOLsGPX7ires=
+			yfYv/Z7+QhWckC0Av0pSxUOMgJ/kqg3xLi+one1xKpE=
 			</data>
 		</dict>
 		<key>Modules/OMotionSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GOQvY7m5Ge/V6TqYb+3w2FlpYoSeW7i3m6ZGRDvHkbs=
+			zV3lPTLmHGPxz+hdIkJPAZiKOBU5h2z6uTJtImjDw8Y=
 			</data>
 		</dict>
 		<key>Modules/OMotionSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			60QQ+0JNbuh1k+FxhYzvdpIW6b7utdmXOLsGPX7ires=
+			yfYv/Z7+QhWckC0Av0pSxUOMgJ/kqg3xLi+one1xKpE=
 			</data>
 		</dict>
 		<key>Modules/OMotionSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LrPWAoMR6Tych8ISu0Hm1F0Gka+BiVfI2lHKZ6OiNZs=
+			rcjOPvXT1P18nY0yuXf8AkKfI8q8t/jB1RUNd3Ykqjw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

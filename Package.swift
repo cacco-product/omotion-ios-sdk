@@ -14,12 +14,13 @@ let package = Package(
     products: [
         .library(
             name: "OMotionSDK",
-            targets: ["OMotionSDK"]),
+            targets: ["OMotionSDK"]
+        ),
     ],
     targets: [
         .binaryTarget(
             name: "OMotionSDK",
             path: "OMotionSdk.xcframework"
-        )
+        ),
     ]
 )

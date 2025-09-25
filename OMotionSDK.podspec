@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "OMotionSDK"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "O-MOTION SDK for iOS"
   s.description  = <<-DESC
                      O-MOTION is an unauthorized access detection service developed and maintained by Cacco Inc.
